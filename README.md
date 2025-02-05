@@ -268,6 +268,7 @@ Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
         - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
         - [Positional Encoding in Transformer](https://medium.com/@sachinsoni600517/positional-encoding-in-transformer-2cc4ec703076)
         - [Sinusoidal Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
+        - [Transformers from scratch](https://peterbloem.nl/blog/transformers)
 # Python:
 - ## Books:
     - [Learning Python: Powerful Object-Oriented Programming - Mark Lutz](https://www.amazon.com/Learning-Python-Powerful-Object-Oriented-Programming-ebook/dp/B00DDZPC9S/ref=as_li_ss_tl?crid=2OZ9IA8BKEZKO&dchild=1&keywords=python+programming+language&qid=1588165545&sprefix=python+progra,aps,315&sr=8-3&linkCode=sl1&tag=adilet-20&linkId=bbe99ec15d04e43dd44966d937725cad&language=en_US)
