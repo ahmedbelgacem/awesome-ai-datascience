@@ -33,6 +33,7 @@ This list is a personal collection of papers, books, articles, guides, and cours
   - [Graph Neural Networks](#graph-neural-networks)
   - [Information Retrieval](#information-retrieval)
     - [Semantic Search](#semantic-search)
+  - [Information Theory](#information-theory)
   - [Machine Learning](#machine-learning)
     - [Boosting Algorithms](#boosting-algorithms)
     - [Support Vector Machines](#support-vector-machines)
@@ -235,6 +236,9 @@ Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
 - ## Semantic Search:
     - ### Blogs, Tutorials and Courses:
         - [Semantic Search - Sentence Transformers Documentation](https://www.sbert.net/examples/applications/semantic-search/README.html) - A guide on using sbert for semantic search
+# Information Theory:
+- ## Blogs, Tutorials and Courses:
+    - [Quantifying Surprise – A Data Scientist’s Intro To Information Theory](https://towardsdatascience.com/quantifying-surprise-1eb9585b6f4e/)   
 # Machine Learning:
 - ## Papers:
     - [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
