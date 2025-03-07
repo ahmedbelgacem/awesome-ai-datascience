@@ -323,6 +323,7 @@ Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
     - ### Books:
         - [Competitive Programmer’s Handbook - Antti Laaksonen (2018)](https://cses.fi/book/book.pdf)
         - [Introduction to Algorithms, 3rd Edition](https://www.amazon.com/dp/0262033844/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=adilet-20&linkId=925f749322dc9e4485887dce6cbc8248&language=en_US)
+        - [How to Practice LeetCode Problems (The Right Way)](https://medium.com/@anthonydmays/how-to-practice-leetcode-questions-the-right-way-4f9735cf06c6)
     - ### Blogs, Tutorials and Courses:
         - [CP-Algorithms.com](https://cp-algorithms.com/)
         - [Grokking LeetCode: A Smarter Way to Prepare for Coding Interviews](https://medium.com/interviewnoodle/grokking-leetcode-a-smarter-way-to-prepare-for-coding-interviews-e86d5c9fe4e1)
