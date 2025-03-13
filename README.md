@@ -344,6 +344,7 @@ Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
     - [Pytorch 101: An applied tutorial](https://www.youtube.com/watch?v=_R-mvKBD5U8&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2&index=1)
     - [PyTorch Training Performance Guide](https://residentmario.github.io/pytorch-training-performance-guide/intro.html)
     - [How To Train Your PyTorch Models (Much) Faster](https://medium.com/gitconnected/how-to-train-your-pytorch-models-much-faster-14737c8c9770)
+    - [How To Train Your PyTorch Models With Less Memory](https://levelup.gitconnected.com/how-to-optimize-memory-usage-for-training-llms-in-pytorch-b012f3008798)
 # Reinforcement Learning:
 - ## Books:
     - [Reinforcement Learning An Introduction - Richard S.Sutton, Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
