@@ -193,6 +193,7 @@ for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078)
         - [Simplified guide to using Docker for local development environment](https://blog.atulr.com/docker-local-environment/)
         - [Use the same Dockerfile for both local development and production with multi-stage builds](https://blog.atulr.com/docker-local-production-image/)
         - [Introduction to docker - Datacamp](https://www.datacamp.com/courses/introduction-to-docker)
+        - [A Data Scientist’s Guide to Docker Containers](https://towardsdatascience.com/a-data-scientists-guide-to-docker-containers/)
 - ## Git:
     - ### Blogs, Tutorials and Courses:
         - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git)
