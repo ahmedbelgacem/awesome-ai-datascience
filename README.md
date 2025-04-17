@@ -346,6 +346,9 @@ Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
     - [PyTorch Training Performance Guide](https://residentmario.github.io/pytorch-training-performance-guide/intro.html)
     - [How To Train Your PyTorch Models (Much) Faster](https://medium.com/gitconnected/how-to-train-your-pytorch-models-much-faster-14737c8c9770)
     - [How To Train Your PyTorch Models With Less Memory](https://levelup.gitconnected.com/how-to-optimize-memory-usage-for-training-llms-in-pytorch-b012f3008798)
+- ## Mixed-precision training:
+    - [Mixed-precision training](https://arxiv.org/pdf/1710.03740)
+    - [Mixed Precision - PyTorch Training Performance Guide](https://residentmario.github.io/pytorch-training-performance-guide/mixed-precision.html) 
 # Reinforcement Learning:
 - ## Books:
     - [Reinforcement Learning An Introduction - Richard S.Sutton, Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
