@@ -216,8 +216,8 @@ for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078)
     - ### Papers:
         - [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)
         - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
-        - [
-Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
+        - [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
+        - [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/pdf/2105.05233)
         - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
         - [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/pdf/2403.18103)
 
