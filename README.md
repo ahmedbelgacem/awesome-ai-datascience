@@ -225,8 +225,10 @@ for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078)
         - [DiffusionFastForward - Diffusion Theory](https://github.com/mikonvergence/DiffusionFastForward/blob/master/notes/01-Diffusion-Theory.md)
         - [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/?fbclid=IwAR1BIeNHqa3NtC8SL0sKXHATHklJYphNH-8IGNoO3xZhSKM_GYcvrrQgB0o)
         - [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion)
-        - [ What are Diffusion Models? ](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#reverse-diffusion-process)
+        - [What are Diffusion Models? ](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#reverse-diffusion-process)
         - [Diffusion models from scratch in PyTorch - Deep Findr](https://www.youtube.com/watch?v=a4Yfz2FxXiY)
+        - [Training with Diffusers - Example](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/training_example.ipynb#scrollTo=34cac24c-df25-49a7-9828-5518a31df8bc)
+        - [Making a Class-Conditioned Diffusion Model](https://huggingface.co/learn/diffusion-course/unit2/3)
 # Graph Neural Networks:
 - ## Blogs, Tutorials and Courses:
     - [Machine Learning with Graphs - Stanford University](http://web.stanford.edu/class/cs224w/index.html#content)
