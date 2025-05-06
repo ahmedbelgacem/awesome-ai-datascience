@@ -229,6 +229,8 @@ for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078)
         - [Diffusion models from scratch in PyTorch - Deep Findr](https://www.youtube.com/watch?v=a4Yfz2FxXiY)
         - [Training with Diffusers - Example](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/training_example.ipynb#scrollTo=34cac24c-df25-49a7-9828-5518a31df8bc)
         - [Making a Class-Conditioned Diffusion Model](https://huggingface.co/learn/diffusion-course/unit2/3)
+        - [Speeding Up Diffusion Sampling](https://minibatchai.com/2022/07/14/Diffusion_Sampling.html)
+
 # Graph Neural Networks:
 - ## Blogs, Tutorials and Courses:
     - [Machine Learning with Graphs - Stanford University](http://web.stanford.edu/class/cs224w/index.html#content)
